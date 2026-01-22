@@ -46,6 +46,11 @@ graph TD
 
 ## 🖥️ Interface Sistem
 
+### Tutorial Video
+📹 Video demo lengkap sistem dapat dilihat di embed video berikut:
+- **Link**: https://youtu.be/mbZrVYIyx88
+- **Durasi**: Tutorial penggunaan dan setup sistem
+- Video tersedia dalam interface web aplikasi untuk kemudahan akses
 
 ### Antrian App
 
